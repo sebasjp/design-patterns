@@ -1,0 +1,10 @@
+                    azure       aws
+vector database
+nosql database
+storage
+llm
+embeddings
+
+
+core/base/* -> productos abstractos
+infrastructure/azure/* -> productos concretos
